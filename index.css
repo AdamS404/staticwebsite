@@ -1,0 +1,16 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f8f9fa1f;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2 {
+  color: #6faae6;
+}
+
+.container {
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+}
